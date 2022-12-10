@@ -7,14 +7,10 @@
  *
  * Description: Get a number at
  * random and find negativity
- * Return: Always set return to 0
+ * Return:zero(0)
  *
 */
 
-/**
- * main(Void): is the  main function
- *
-*/
 int main(void)
 {
 	int n;
