@@ -12,7 +12,7 @@
 */
 
 /**
- * Desription for main: main function
+ * main(Void): is the  main function
  *
 */
 int main(void)
