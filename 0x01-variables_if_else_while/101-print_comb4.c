@@ -6,7 +6,7 @@
  * Description: prints all possible different
  * combinations of three digits
  *
- * Return zero(0)
+ * Return: zero(0)
  */
 
 int main(void)
