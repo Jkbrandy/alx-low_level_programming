@@ -5,11 +5,16 @@
 /**
  * Main - This is the main function
  *
- * Description: Get a number at random and find out if negative, zero or positive
+ * Description: Get a number at
+ * random and find negativity
  * Return: Always set return to 0
  *
 */
 
+/**
+ * Desription for main: main function
+ *
+*/
 int main(void)
 {
 	int n;
