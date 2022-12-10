@@ -5,6 +5,7 @@
 /**
  * Main - This is the main function
  *
+ * Description: Get a number at random and find out if negative, zero or positive
  * Return: Always set return to 0
  *
 */
