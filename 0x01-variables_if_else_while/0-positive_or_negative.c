@@ -3,7 +3,7 @@
 #include <time.h>
 
 /**
- * Main - This is the main function
+ * Main - main function
  *
  * Description: Get a number at
  * random and find negativity
