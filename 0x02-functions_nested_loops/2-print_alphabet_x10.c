@@ -4,8 +4,7 @@
  * print_alphabet_x10 - prints 10 times the alphabet, in lowercase
  *
  */
-
-void print_alphabet_x10(void)
+int print_alphabet_x10(void)
 {
 	char ch;
 	int i;
@@ -17,10 +16,10 @@ void print_alphabet_x10(void)
 		ch = 'a';
 		while (ch <= 'z')
 		{
-			_putchar(ch)
+			_putchar(ch);
 				ch++;
 		}
-		_putcha('\n');
+		_putchar('\n');
 		i++;
 	}
 }
