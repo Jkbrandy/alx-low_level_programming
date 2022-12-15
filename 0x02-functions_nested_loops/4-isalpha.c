@@ -2,7 +2,7 @@
 
 /**
  * _isalpha -  checks for alphabetic character
- * member c - represents the character
+ * @c - the character to be checked
  * Return: 1 if c is a letter and
  * 0 in all other instances
  */
