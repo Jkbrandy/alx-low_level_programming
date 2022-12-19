@@ -25,7 +25,7 @@ void puts2(char *str)
 	{
 		if (z % 2 == 0)
 		{
-			_putchar(str[o]);
+			_putchar(str[t]);
 		}
 	}
 	_putchar('\n');
