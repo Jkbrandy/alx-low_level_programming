@@ -11,7 +11,7 @@
 void puts2(char *str)
 {
 	int longi = 0;
-	int x = 0;
+	int t = 0;
 	char *y = str;
 	int z;
 
@@ -20,12 +20,12 @@ void puts2(char *str)
 		y++;
 		longi++;
 	}
-	x = longi - 1;
-	for (z = 0 ; z <= x ; z++)
+	t = longi - 1;
+	for (z = 0 ; z <= t ; z++)
 	{
 		if (z % 2 == 0)
 		{
-			_putchar(str[x]);
+			_putchar(str[o]);
 		}
 	}
 	_putchar('\n');
